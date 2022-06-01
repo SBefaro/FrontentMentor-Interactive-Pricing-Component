@@ -6,7 +6,7 @@
 
 body{
     background: var(--Main-Background) url('../images/bg-pattern.svg') no-repeat;
-    background-position: left -120px;
+    background-position: left -40px;
     font-family: 'Manrope', sans-serif;   /* Weights 600-800 */
     font-size: 15px;
     color: var(--Text);
@@ -294,6 +294,7 @@ h1{
 
     body{
         background-position: 0 0;  /* Left top */
+        background-size: 100% 450px;
     }
     h1{
         font-size: 1.5rem;
